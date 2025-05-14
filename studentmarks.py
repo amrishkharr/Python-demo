@@ -13,5 +13,7 @@ total=tamil+ english+ maths+ C_programming+ DBMS
 print("Total marks:",total)  
 if(total==200):
     print("Result: Pass")
+elif():
+    print()
 else:
     print("Result: Fail")

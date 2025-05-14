@@ -1,0 +1,3 @@
+tables=int(input("Enter a Number: "))
+for i in range(0,11):
+    print(i,'*',tables,'=',i*tables)
